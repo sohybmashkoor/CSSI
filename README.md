@@ -1,2 +1,3 @@
-# CSSI
-Squidward Run
+# CSSI Final Project
+
+# Squidward Run
